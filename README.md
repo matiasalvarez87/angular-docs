@@ -1,7 +1,4 @@
-angular-docs
-============
-
-# AngularJS
+# AngularJS Documentation
 Angular documentation organised by topic.
 
 ## Services, Factories and Providers
