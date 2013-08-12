@@ -2,11 +2,11 @@
 Angular documentation organised by topic.
 
 ## Services, Factories and Providers
-http://stackoverflow.com/questions/15666048/angular-js-service-vs-provide-vs-factory
-http://jsbin.com/ohamub/824/edit
+- Basic difference: http://stackoverflow.com/questions/15666048/angular-js-service-vs-provide-vs-factory
+- Example to show the differences: http://jsbin.com/ohamub/824/edit
 
 ## Models
-http://stackoverflow.com/questions/11112608/angularjs-where-to-put-model-data-and-behaviour
+- How to Implement models on Angular: http://stackoverflow.com/questions/11112608/angularjs-where-to-put-model-data-and-behaviour
 
 ## Third Party Directives
 - Bootstrap UI: http://angular-ui.github.io/
