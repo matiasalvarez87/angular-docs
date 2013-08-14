@@ -8,6 +8,9 @@ Angular documentation organised by topic.
 ## Models
 - How to Implement models on Angular: http://stackoverflow.com/questions/11112608/angularjs-where-to-put-model-data-and-behaviour
 
+## Animations
+- http://flippinawesome.org/2013/08/05/animating-with-angularjs/
+
 ## Third Party Directives
 - Bootstrap UI: http://angular-ui.github.io/
 - Bootstrap Angular Directives: http://mgcrea.github.io/angular-strap/
