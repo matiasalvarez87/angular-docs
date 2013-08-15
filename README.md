@@ -15,3 +15,6 @@ Angular documentation organised by topic.
 - Bootstrap UI: http://angular-ui.github.io/
 - Bootstrap Angular Directives: http://mgcrea.github.io/angular-strap/
 - Highcharts Directive: https://github.com/rootux/angular-highcharts-directive
+
+## Bootstrap & Project Setup
+- MEAN (Mongo, Express, Angular, Node) stack Boilerplate: http://mean.io/
